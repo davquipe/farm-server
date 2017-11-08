@@ -1,0 +1,15 @@
+certifi==2017.7.27.1
+chardet==3.0.4
+dj-database-url==0.4.1
+Django==1.11.5
+django-cors-headers==2.1.0
+django-oauth-toolkit==1.0.0
+djangorestframework==3.6.4
+gunicorn==19.6.0
+idna==2.6
+oauthlib==2.0.4
+psycopg2==2.6.2
+pytz==2017.2
+requests==2.18.4
+urllib3==1.22
+whitenoise==3.2
