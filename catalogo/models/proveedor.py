@@ -5,6 +5,7 @@ class Proveedor(models.Model):
 
     empresa = models.CharField(max_length=10)
     ruc = models.CharField(max_length=60, null=True, blank=True)
+    foto = models.ImageField(blank=True)
 
     class Meta:
         verbose_name = "Proveedor"
